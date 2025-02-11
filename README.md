@@ -27,7 +27,7 @@ Schreibe dein Programm in die Datei `program.py`
         
 **Schleifen**
 
-    while TEST:
+    while BEDINUNG:
         Code im Loop ausführen
         Code im Loop ausführen
 
