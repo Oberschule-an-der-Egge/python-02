@@ -12,9 +12,9 @@ Schreibe dein Programm in die Datei `program.py`
 
 ## Das könnte dir helfen:
 
-**String Formatierung**
+**Strings mit Variablen ausgeben**
 
-`"Deine Zahl war {}.".format(zahl)`
+`print(f"Deine Zahl war {zahl}."`
 
 **If-Abfragen (Bedingte Anweisungen)**
 
